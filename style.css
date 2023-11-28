@@ -33,7 +33,6 @@ body {
 
 .left {
     padding: 30px 60px 30px 30px;
-    
 }
 
 .header {
@@ -43,7 +42,7 @@ body {
     
 }
 
-.text-p {
+.pg {
    text-align: left;
    position: relative;
    left: 15px;
@@ -121,7 +120,7 @@ span {
     transition: all 0.3s ease-in-out;
 }
 
-.subscribe-input-div {
+.subscribe {
    
     position: relative;
     left: 20px;
@@ -224,7 +223,7 @@ em {
         font-size: 40px;
     }
 
-    .text-p {
+    .pg {
         width: 300px;
     }
 
@@ -232,7 +231,7 @@ em {
         width: 300px;
     }
 
-    .subscribe-input-div {
+    .subscribe {
         position: relative;
         left: 0;
         margin-top: 50px;
